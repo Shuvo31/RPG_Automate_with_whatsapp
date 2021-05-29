@@ -1,7 +1,7 @@
 ## RPG_Automate_with_whatsapp
 Dynamically user will give input about password length, to whom u wanna send the message and send it automatically send it via whatsapp.
 
-#for that we need to import three modules 
+## for that we need to import three modules 
 <br/>
 import pywhatkit <br/>
 import random <br/>
